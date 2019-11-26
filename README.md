@@ -1,2 +1,3 @@
-# holding-page-portfolio
-Holding page for portfolio - Used for hosting switch over
+Portfolio Holding Page
+========================
+To stand in place of my portfolio throughout a hosting switch over.
