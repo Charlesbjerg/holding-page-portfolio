@@ -55,7 +55,8 @@
     "start": "cross-env NODE_ENV=development gulp",
     "watch": "cross-env NODE_ENV=development gulp watch",
     "build": "cross-env NODE_ENV=production gulp build",
-    "deploy": "cross-env NODE_ENV=production gulp deploy"
+    "deployOld": "cross-env NODE_ENV=production gulp deploy",
+    "deploy": "cross-env NODE_ENV=production gulp build && git add . && git commit -m '' && git push origin master"
   },
   "repository": {
     "type": "git",
