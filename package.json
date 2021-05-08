@@ -36,7 +36,7 @@
     "gulp-stylelint": "^9.0.0",
     "gulp-twig": "^1.2.0",
     "gulp-wrap": "^0.15.0",
-    "handlebars": "^4.4.3",
+    "handlebars": "^4.7.7",
     "lodash.debounce": "^4.0.8",
     "lodash.throttle": "^4.1.1",
     "node-notifier": "^5.4.0",
